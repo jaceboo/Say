@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SayHi</string>
+    <string name="public_app_name">SayHi</string>
+    <string name="public_loading">加载中....</string>
+</resources>
